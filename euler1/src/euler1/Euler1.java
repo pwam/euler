@@ -7,7 +7,6 @@
 package euler1;
 
 /**
- *
  * @author pwam
  */
 public class Euler1 {
