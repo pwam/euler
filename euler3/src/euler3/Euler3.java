@@ -7,7 +7,6 @@
 package euler3;
 
 /**
- *
  * @author pwam
  */
 import java.lang.Long;
